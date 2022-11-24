@@ -3,6 +3,3 @@ A collection of interactive dashboards created from scratch, starting from data 
 
 # Sales Insights of Atliq hardware company 
 
-# Getting_Started  
-
-Problem Statement 
